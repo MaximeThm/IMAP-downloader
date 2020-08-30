@@ -2,10 +2,10 @@ from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-user_portal = "U501171"
-mdp_portal = "Factures23!"
-driver_file = r'/Users/maximethomas/Documents/chromedriver'
-outputdir = '/Users/maximethomas/Desktop/Test'
+user_portal = "user name"
+mdp_portal = "password!"
+driver_file = "where the Chrome driver is located'
+outputdir = "path to source folder"
 
 driver = webdriver.Chrome(driver_file)
 

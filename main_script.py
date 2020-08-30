@@ -8,19 +8,19 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 
 # Email credentials
-user_mail = 'pythontest0757@outlook.com'
-mdp_mail = 'vapcaF-2jukku-wyqtog'
+user_mail = 'xxx'
+mdp_mail = 'xxx'
 
 # Portal Credentials
-user_portal = "U501171"
-mdp_portal = "Factures23!"
+user_portal = "xxx"
+mdp_portal = "xxx"
 
 # Path to the Chrome WebDriver
-driver_file = r'/Users/maximethomas/Documents/chromedriver'
+driver_file = r'xxx'
 # IMAP server used
 server = 'imap-mail.outlook.com'
 # Path to the temp folder used
-path = '/Users/maximethomas/Desktop/Test/'
+path = 'xxx'
 #Delay for webpage to upload
 delay = 1
 
